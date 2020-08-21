@@ -4,7 +4,7 @@ Metagenesys
 Take the information from a Python `setup.cfg` file and generate a `codemeta.json` file.
 
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg?style=flat-square)](https://choosealicense.com/licenses/bsd-3-clause)
-[![Latest release](https://img.shields.io/github/v/release/caltechlibrary/template.svg?style=flat-square&color=b44e88)](https://github.com/caltechlibrary/template/releases)
+[![Latest release](https://img.shields.io/github/v/release/caltechlibrary/metagenesys.svg?style=flat-square&color=b44e88)](https://github.com/caltechlibrary/metagenesys/releases)
 
 
 Table of contents

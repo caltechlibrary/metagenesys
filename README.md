@@ -1,6 +1,8 @@
 Metagenesys
 ===========
 
+Replaced by https://github.com/caltechlibrary/CMTools
+
 Metagenesys ("_**Meta**data **gene**rator u**s**ing P**y**thon **s**etup.cfg_") takes the information from a Python `setup.cfg` file and generates a `codemeta.json` file.
 
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg?style=flat-square)](https://choosealicense.com/licenses/bsd-3-clause)
